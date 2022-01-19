@@ -1,0 +1,15 @@
+{
+  "name": "playtak-app",
+  "version": "1.0.0",
+  "description": "Desktop App for Playtak",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Braydon Harris",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^16.0.6"
+  }
+}
